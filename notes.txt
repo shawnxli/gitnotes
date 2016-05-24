@@ -1,4 +1,4 @@
-# Overview of GIt
+# Overview of Git
 
 Git consists of three parts
 
@@ -16,6 +16,7 @@ The `--global` option set the settings for the whole computer instead of just th
 git config --global user.name "My name"
 git config --global user.email me@somewhere.com
 git config --global color.ui auto
+git config --global core.editor gvim
 ```
 
 ## initialization
